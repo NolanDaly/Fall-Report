@@ -10,7 +10,7 @@
      - Design Diagrams: Level 0, Level 1 and Level 2 
      - Description of Diagrams
  * Project Tasks and Timeline
- * Task List
+     - Task List
      - Timeline
      - Effort Matrix
  * ABET Concerns Essay
