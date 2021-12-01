@@ -20,5 +20,7 @@
      - Emma Bradford
      - Nolan Daly
  * Professional Biographies
+     - Emma Bradford
+     - Nolan Daly
  * Budget (not applicable)
  * Appendix
