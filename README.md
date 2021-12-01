@@ -7,8 +7,7 @@
 
  * User Stories and Design Diagrams
      - User Stories
-     - Design Diagrams: Level 0, Level 1 and Level 2 
-     - Description of Diagrams
+     - Design Diagrams and Description
  * Project Tasks and Timeline
      - Task List
      - Timeline
