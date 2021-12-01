@@ -1,2 +1,2 @@
 # Fall-Report
-Final design report for the Fall, 2021 semester
+Final design report for fall 2021
