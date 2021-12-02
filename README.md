@@ -17,9 +17,9 @@
      - [Video](https://www.youtube.com/video/DeU0ssT9aC0)
  * Self-Assessment Essays
      - [Emma Bradford](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/EBSelfAssessment.md)
-     - Nolan Daly
+     - [Nolan Daly](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/NDSelfAssessment.md)
  * Professional Biographies
      - [Emma Bradford](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/EBProfBio.md)
      - [Nolan Daly](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/NDProfBio.md)
  * Budget (not applicable)
- * Appendix
+ * [Appendix](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/Appendix.md)
